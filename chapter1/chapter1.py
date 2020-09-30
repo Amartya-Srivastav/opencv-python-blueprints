@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """OpenCV with Python Blueprints
-    Chapter 1: Fun with Filters
+    Chapter 1: Fun and learn with Filters
 
     An app to apply three different image filter effects to the video stream
     of a webcam in real-time.
